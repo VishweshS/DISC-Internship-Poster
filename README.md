@@ -1,1 +1,1 @@
-Poster for the internship work done at the Data Intensive Studies Center, Tufts University, from January 2024 to May 2024.
+Enabled label-free flow cytometry of rare circulating tumor cell clusters in blood with correlation-based feature engineering of light scattering data and a random forest classifier (Accuracy, Precision, TPR, TNR: ~90%).
