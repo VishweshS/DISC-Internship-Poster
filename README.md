@@ -1,1 +1,1 @@
-Enabled label-free flow cytometry of rare circulating tumor cell clusters in blood with correlation-based feature engineering of light scattering data and a random forest classifier (Accuracy, Precision, TPR, TNR: ~90%).
+Developed a novel approach to detect rare tumor cell clusters in blood by training a random forest classifier using a correlation-based feature-engineered light scattering data (Accuracy, Precision, TPR, TNR: ~90%).   
